@@ -1,2 +1,2 @@
 # projeto-site
- Projeto de um site criado dentro do curso de gti gtihub
+ Projeto de um site feito em um curso de git github
